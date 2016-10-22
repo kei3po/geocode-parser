@@ -1,0 +1,25 @@
+{
+  "name": "geocode-parser",
+  "version": "0.0.1",
+  "description": "parser for multiple standar string formatted latlng",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kei3po/geocode-parser.git"
+  },
+  "keywords": [
+    "geocode",
+    "string",
+    "format",
+    "parser"
+  ],
+  "author": "keith nielsen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kei3po/geocode-parser/issues"
+  },
+  "homepage": "https://github.com/kei3po/geocode-parser#readme"
+}
